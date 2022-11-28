@@ -10,7 +10,7 @@ Create a report that covers the following:
   4. Using the network analysis, in which departments would you recommend the HR team focus to boost collaboration?
 
 # Summary
-- **The sales department is the most active department** and **The marketing department is the least active department** in the company's employee network.
+- **The sales department is the most active department** and **the marketing department is the least active department** in the company's employee network.
 -  **The employee 598 has the most connections** in the company's employee network with **84 connections**.
 - The most influential departments are the **sales department**, the **admin department** and the **operations department** in the company's employee network.
 - The **top 5 most influential employees** in the company's employee network are:
